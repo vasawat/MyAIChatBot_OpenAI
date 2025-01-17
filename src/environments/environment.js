@@ -1,6 +1,6 @@
 const enviroment = {
-  apiUrl: "http://localhost:5000",
-  //   apiUrl: REACT_APP_APIURL,
+  // apiUrl: "http://localhost:5000",
+  apiUrl: "https://myaichatbotopenaibackend-production.up.railway.app",
 };
 
 export default enviroment;
